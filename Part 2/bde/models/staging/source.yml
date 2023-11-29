@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw data from CSV files
+    database: postgres
+    schema: raw
+    
+    tables:
+      - name: census_g01
+      - name: census_g02
+      - name: nsw_lga_code
+      - name: nsw_lga_suburb
+      - name: listings
+      - name: property_snapshot
+      - name: host_snapshot
+      - name: room_snapshot
