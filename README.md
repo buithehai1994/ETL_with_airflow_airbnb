@@ -15,7 +15,7 @@ This project is centered on constructing robust data pipelines utilizing Airflow
 ## Task Overview
 
 ### Environment Setup
-- Configure an Airflow and Postgres environment using GCP (Cloud Composer and SQL instance) and dbt within a private GitHub repository.
+- Configure an Airflow and Postgres environment using GCP (Cloud Composer and SQL instance) and dbt within a GitHub repository.
 
 ### Data Collection
 - Download datasets for Airbnb (Sydney listings), Census (G01 and G02 tables), and an intermediary mapping dataset for linking the two.
