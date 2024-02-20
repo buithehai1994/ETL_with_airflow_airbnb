@@ -29,6 +29,5 @@ This project is centered on constructing robust data pipelines utilizing Airflow
 For detailed instructions and specifics regarding each task, please refer to the provided [Assignment 3 Brief.docx] file.
 
 ## Acknowledgments
-This project is based on the dataset consolidated from census data in the USA and its documentation provided for educational purposes.
-(Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)
-
+This project and its documentation are for educational purposes.
+(The project structure is from the **Master of Data Science and Innovation** course of the University of Technology Sydney, and it is an asset of TD School)
